@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Logcals Programmes");
-            Fibonacci_Series.CheckFibonacci();
+            //Console.WriteLine("Welcome To Logcals Programmes");
+
+            //Fibonacci_Series.CheckFibonacci();
+            Perfect_Number.Check_Number_Perfect();
+
         }
     }
 }
