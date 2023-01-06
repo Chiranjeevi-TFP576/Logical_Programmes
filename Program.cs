@@ -7,7 +7,8 @@
             //Console.WriteLine("Welcome To Logcals Programmes");
 
             //Fibonacci_Series.CheckFibonacci();
-            Perfect_Number.Check_Number_Perfect();
+            //Perfect_Number.Check_Number_Perfect();
+            Prime_Number.CheckPrime();
 
         }
     }
