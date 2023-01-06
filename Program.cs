@@ -8,7 +8,8 @@
 
             //Fibonacci_Series.CheckFibonacci();
             //Perfect_Number.Check_Number_Perfect();
-            Prime_Number.CheckPrime();
+            //Prime_Number.CheckPrime();
+            Reverse_Number.CheckReverse();
 
         }
     }
